@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "yarn build",
+    "build": "yarn run",
     "start": "next start"
   },
   "dependencies": {

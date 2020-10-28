@@ -23,13 +23,13 @@ const Videos = () => {
 
      <Slider {...settings}>
           <div className="contSlider">
-          <iframe src="https://www.youtube.com/embed/x1CrPwhmqX4"  showinfo="0"controls="0" frameborder="0" default></iframe>
+          <iframe src="https://www.youtube.com/embed/x1CrPwhmqX4"  default></iframe>
           </div>
           <div  className="contSlider">
-          <iframe src="https://www.youtube.com/embed/XoYDjtpTBbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" default></iframe>
+          <iframe src="https://www.youtube.com/embed/XoYDjtpTBbU"   default></iframe>
           </div>
           <div  className="contSlider">
-          <iframe src="https://www.youtube.com/embed/go8ibd-hGiw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" default></iframe>
+          <iframe src="https://www.youtube.com/embed/go8ibd-hGiw"  default></iframe>
           </div>
           {/* <div  className="contSlider">
           <iframe src="https://www.youtube.com/embed/Sdi60CAM8Ac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" default></iframe>
